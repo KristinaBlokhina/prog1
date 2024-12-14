@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\bin\Debug\pr.lab1.exe.config
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\bin\Debug\pr.lab1.exe
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\bin\Debug\pr.lab1.pdb
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\obj\Debug\pr.lab1.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\obj\Debug\pr.lab1.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\obj\Debug\pr.lab1.exe
+C:\Users\krist\source\repos\pr.lab1\pr.lab1\obj\Debug\pr.lab1.pdb

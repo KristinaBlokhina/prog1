@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\bin\Debug\pr.lab1.2(7).exe.config
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\bin\Debug\pr.lab1.2(7).exe
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\bin\Debug\pr.lab1.2(7).pdb
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\obj\Debug\pr.lab1.2(7).csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\obj\Debug\pr.lab1.2(7).csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\obj\Debug\pr.lab1.2(7).exe
+C:\Users\krist\source\repos\pr.lab1.2(7)\pr.lab1.2(7)\obj\Debug\pr.lab1.2(7).pdb
